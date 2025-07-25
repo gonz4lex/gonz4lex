@@ -98,4 +98,9 @@ Here are some of the languages, technologies and tools I'm proficient in:
 ### 📄 Latest Blog Posts (from [alexgonzalezc.dev](https://alexgonzalezc.dev))
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Migrated My Blog from Pelican to Quarto](https://alexgonzalezc.dev/posts/20250723-switching-to-quarto/)
+- [Understanding RAG systems with a practical application using locally executed LLMs](https://alexgonzalezc.dev/posts/20240402-rag-system-with-langchain/rag-system.html)
+- [A comment system for static websites using Github Discussions](https://alexgonzalezc.dev/posts/20220423-github-comment-system/)
+- [A Pint of API](https://alexgonzalezc.dev/posts/20191208-pint-of-api/)
+- [How to build Aseprite from source in Ubuntu](https://alexgonzalezc.dev/posts/20200104-aseprite-from-source/)
 <!-- BLOG-POST-LIST:END -->
